@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Module1",
+			"path": "../../../../../../Module1"
+		},
+		{
+			"name": "methods",
+			"path": "../../../.."
+		}
+	],
+	"settings": {}
+}
